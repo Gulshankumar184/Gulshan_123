@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FIVE FOOD ITEMS</title>
+
+</head>
+<body style="background-color: cornflowerblue;">
+    
+    <h1 style="text-align: center;background-color: rgb(201, 169, 66);"> FIVE FOOD ITEMS </h1>
+ 
+    <!--  order list  -->
+
+    <ol>
+
+         <li><b>BURGER</b></li>
+           <li><B>MOMOS</B></li>
+             <li><B>PIZZA</B></li>
+              <li><B>CHOW MIN</B></li>
+                <li><B>SWEET ROLE</B></li>
+
+                
+
+
+    </ol>
+          <h1><b> food assessment </b></h1>
+      <P><b> hamburger or burger is an American fast food.
+      It is a type of sandwich with a patty of cooked ground meat between the two halves 
+      of a bun tomatoes, onions, cheese, salad and  dips may also be added.
+     The hamburger may be eaten without a knif and fork, so it is a fast food which can be eaten anywhere.</b></P>
+
+     <h1 style="display: inline;"><u>Burger</u></h1>
+
+        src <img src="https://www.chicken.ca/wp-content/uploads/2013/05/Moist-Chicken-Burgers.jpg" alt=""with="250 px" height="250 px">
+            
+       <P><b>Momo is a type of steamed dumpling with some form of filling,
+      most commonly chicken (traditionally yak,
+      but often chicken and goat) and it is originally from Tibet.</b></P>
+
+      <h2 style="display: inline;"><u>Momos</u></h2>
+
+      src <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhbxYXvCjzxlUfW_72XjjXNLZnssgJ8jcZjQ&usqp=CAU" alt=""with="250 px"height="250 px">
+
+       <p><b>Pizza is a dish of Italian origin consisting of a usually round, 
+      flat base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients,
+       which is then baked at a high temperature, traditionally in a wood-fired oven.
+      A small pizza is sometimes called a pizzetta.</b></p>
+
+      <h1 style="display: inline;"><u>Pizza</u></h1>
+
+    src <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaw8fgl0rN0BFngV_e_FuHkakKIjhimwmzKQ&usqp=CAU" alt=""with="255"height="250">
+    
+      <p><b> Chow mein is a Chinese dish made from stir-fried noodles with vegetables and sometimes meat or tofu.
+         Over the centuries,variations of chǎomiàn were developed in many regions of China; 
+        there are several methods of frying the noodles and a range of toppings can be used.</b></p>
+
+        <h1 style="display: inline;"><u> Chwomin </u></h1>
+
+      src <img src="https://natashaskitchen.com/wp-content/uploads/2020/03/Chicken-Chow-Mein-4-500x500.jpg" alt=""with="250" height="250">
+
+
+        <p><b> A sweet roll or sweet bun refers to any of a number of sweet, baked, yeast-leavened breakfast 
+          or dessert foods. They may contain spices, nuts, candied fruits, etc.,
+          and are often glazed or topped with icing. 
+          Compared to regular bread dough, sweet roll dough generally has higher levels of sugar,
+           fat, eggs, and yeast </b></p>
+
+           <h1 style="display: inline;"><b> Sweet role </b></h1>
+
+           src <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Chelsea_Buns.jpg" alt=""with="250" height="250">
+
+           <p style="padding: 0cqh;"><b>NAME - GULSHAN KUMAR  </b></p>
+  </body>
+</html>
